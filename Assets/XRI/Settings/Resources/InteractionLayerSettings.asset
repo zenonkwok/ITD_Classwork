@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Key1
+  - Key2
+  - Key3
+  - Object1
+  - Object2
+  - Object3
   - 
   - 
   - 
